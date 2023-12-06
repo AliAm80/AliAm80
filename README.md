@@ -1,6 +1,6 @@
 <h1 align="center">Hi my friend, I'm Ali Amoozadeh</h1>
 <h3 align="center">A curious backend developer in the world of technology</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 
 - 🌱 I’m currently learning **Asp.NET Core**
 
